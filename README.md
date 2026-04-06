@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws" height="60" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,git,postgres" height="60" />
 </div>
 
 <div align="center">
