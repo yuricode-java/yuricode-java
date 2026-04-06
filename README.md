@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
----
-
-# 💻 Tech Stack:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,aws" height="60" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"(https://www.linkedin.com/)  />
+
 </div>
