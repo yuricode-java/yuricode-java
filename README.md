@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,aws,git" height="60" alt="tech stack icons"/>
   <img width="12"/>
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="60" alt="Salesforce"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"" height="60" alt="Salesforce"/>
 </div>
 
 <div align="center">
